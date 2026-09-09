@@ -1,6 +1,6 @@
 # qwe962.github.io
 
-Personal portfolio for an AI Inference & Model Serving Engineer, focused on SGLang, vLLM, multi-GPU inference, and production deployment.
+Personal portfolio for an AI Inference Deployment & Optimization Engineer, focused on large-model deployment, adaptation, and reliable serving across NVIDIA H20, Ascend 910C, and other accelerator platforms.
 
 [View the live site](https://qwe962.github.io/)
 
@@ -15,7 +15,8 @@ Personal portfolio for an AI Inference & Model Serving Engineer, focused on SGLa
 - Responsive single-page design for desktop and mobile
 - Lightweight CSS and JavaScript with no external runtime dependencies
 - Reduced-motion support and accessible navigation
-- Technical stack, open-source work, and production case studies
+- Heterogeneous accelerator deployment and model-adaptation experience
+- Technical stack, open-source work, and production-oriented case studies
 - Direct deployment from GitHub Pages
 
 ## Local preview
@@ -42,11 +43,11 @@ No build command or GitHub Actions workflow is required.
 **Description**
 
 ```text
-AI Inference & Model Serving Engineer portfolio — SGLang, vLLM, multi-GPU inference, and production deployment.
+AI inference deployment and optimization portfolio — SGLang, vLLM, NVIDIA H20, Ascend 910C, and model adaptation.
 ```
 
 **Topics**
 
 ```text
-ai-inference, model-serving, sglang, vllm, cuda, pytorch, nvidia-gpu, multi-gpu, portfolio, github-pages
+ai-inference, model-serving, model-adaptation, sglang, vllm, cuda, pytorch, nvidia-h20, ascend-910c, npu, multi-gpu, portfolio, github-pages
 ```
